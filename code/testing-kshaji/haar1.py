@@ -1,6 +1,6 @@
 import cv2
 from matplotlib import pyplot as plt
-
+#standard libraries
 # Opening image
 img = cv2.imread("image3.jpg")
 
